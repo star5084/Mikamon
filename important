@@ -1,0 +1,3 @@
+This version of the game uses:
+pygame, pygame-particles, numba, pymunk, pillow (pil), pytweening, numpy , opencv-python 
+To download theme paste this in to the terminal [ pip install pygame pygame-particles numba pymunk pillow pytweening numpy opencv-python ]
