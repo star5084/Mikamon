@@ -21,5 +21,3 @@ This Code of Conduct applies both within project spaces and in public when an in
 ## Enforcement
 
 Instances of abusive, harassing, or otherwise unacceptable behavior may be reported by contacting the repository maintainers. All reports will be reviewed and investigated.
-
-*This Code of Conduct is adapted from the Contributor Covenant template.* :contentReference[oaicite:0]{index=0}
